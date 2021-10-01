@@ -7,7 +7,7 @@ public class Display{
 		// TODO Auto-generated method stub
 		List<Person> list=new ArrayList();
 		{
-			list.add(new Person("Rahul","Rahul","Kochi"));
+			list.add(new Person("Rahul","Raj","Kochi"));
 			list.add(new Person("Rahul","Paul","TVM"));
 			list.add(new Person("Sandeep","S","Trissur"));
 		}
