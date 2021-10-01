@@ -29,7 +29,7 @@ public class Person {
       if (this == p) {
          return true;
       } else {
-         return (this.firstname.equals(p.firstname)&& this.lastname == p.lastname);
+         return (this.firstname.equals(p.firstname)&& this.firstname == p.firstname);
       }
     }
 	@Override
